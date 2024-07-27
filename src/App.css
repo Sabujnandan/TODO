@@ -1,0 +1,24 @@
+input {
+  width: 100%;
+}
+
+ .kg-button {
+  min-width: 80px;
+  width: 105px;
+  height: 61px;
+  font-size: xx-large;
+  font-family: sans-serif;
+}
+
+
+.kg-row {
+  margin: 10px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  font-family: 'Inter';
+} 
+body{
+  background-image: url("https://static.vecteezy.com/system/resources/previews/024/879/855/non_2x/design-simple-peach-green-and-red-gradient-color-illustration-background-free-photo.jpg");
+}

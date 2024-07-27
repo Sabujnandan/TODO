@@ -1,0 +1,65 @@
+.todoinput {
+    width: 80%;
+    max-width: 600px;
+    padding: 15px;
+    font-size: 1.2rem;
+    color: #333;
+    background-color: #f9f9f9;
+    border: 2px solid #00C9FF;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.todo-input:focus {
+    border-color: #92FE9D;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+.tododateinput{
+    /* width: 80%; */
+    max-width: 600px;
+    padding: 15px;
+    font-size: 1.2rem;
+    color: #333;
+    background-color: #f9f9f9;
+    border: 2px solid #00C9FF;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.tododateinput:focus {
+    border-color: #92FE9D;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.todosubmit {
+    width: 20%;
+    max-width: 150px;
+    padding: 15px;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #28a745; /* Green color */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    
+}
+
+.todosubmit:hover {
+    background-color: #218838; /* Darker green color on hover */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+#xyz{
+    padding: 9px;
+    padding-right: 68px;
+}

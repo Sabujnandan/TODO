@@ -1,0 +1,26 @@
+.abc {
+    background-color: rgb(255 255 255 / 35%);
+    border-radius: 16px;
+    padding: 18px;
+    box-shadow: 0 4px 8px rgb(0 0 0 / 24%);
+    margin: 20px;
+  }
+  .kgrow {
+    margin-bottom: 10px; /* Space between rows */
+    margin: 10px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  font-family: 'Inter';
+}
+
+.kgbutton {
+    margin-left: auto; /* Align button to the right */
+    min-width: 80px;
+    width: 84px;
+    height: 61px;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+  
